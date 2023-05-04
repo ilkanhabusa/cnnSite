@@ -1,0 +1,244 @@
+body {
+    margin: 0px;
+}
+header section section section {
+    height: 40px;
+
+}
+
+.mainMenu {
+    border: 0px rgb(232, 2, 21) solid;
+    background-color: rgb(12, 12, 12);
+    color: rgb(230, 230, 230);
+    height: 40px;
+}
+
+.containerMainMenu {
+    border: 0px rgb(8, 190, 245) solid;
+    width: 1248px;
+    height: 40px;
+    margin: auto;
+}
+
+.hamburgerMenu{
+    width: 48px;
+    float: left;
+    margin: auto;
+    padding: 4px;
+}
+
+
+
+.cnnLogo{
+    width: 40px;
+    float: left;
+}
+
+.cnnLogo img{
+    width: 40px;
+    
+}
+
+.cnnMenu{
+    width: 380px;
+    float: left;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cnnMenu nav{
+    width: 100%;
+    height: 40px;
+
+}
+
+
+.cnnMenu nav ul{
+    list-style-type: none;
+    display: inline-flex;
+    height: 40px;
+    margin: 10px;
+}
+
+.cnnMenu nav ul li{
+    padding: auto;
+    text-align: center;
+    padding-inline: 10px;
+
+
+}
+
+.audioLiveMenu{
+    width: 170px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.audioLiveMenu nav ul{
+    height: 40px;
+    margin: 0px;
+}
+
+.audioLiveMenu nav ul li{
+    margin: auto;
+    list-style-type: none;
+    display: inline-block;
+    height: 38px;
+    padding-inline: 4px;
+}
+
+.busqueda{
+    margin-top: 3px;
+}
+
+.sLogin{
+    width: 85px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header section {
+    border: 0px rgb(31, 210, 15) solid;
+
+}
+
+.lineInBLank {
+    height: 16px;
+}
+
+main section {
+    border: 0px rgb(57, 3, 219) solid;
+
+}
+
+.subMenu {
+    margin: auto;
+    width: 1095px;
+    height: 48px;
+    border: 1px rgb(24, 47, 218) solid;
+}
+
+
+.fontCnn {
+    font-family: Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    font-size: 1rem;
+    line-height: 1.33333;
+}
+
+.columnsNews {
+    width: 1100px;
+    margin: auto;
+}
+
+.firstColumn {
+    width: 460px;
+    float: left;
+}
+
+.secondColumn {
+    width: 315px;
+    float: left;
+}
+
+.thirdColumn {
+    width: 315px;
+    float: left;
+}
+
+main section.columnsNews section.firstColumn  ul {
+    padding-left: 5px;
+}
+
+main section.columnsNews section.firstColumn  ul li {
+    list-style-type: none;
+    border-top: 1px solid #d9d9d9;
+    padding: 7px 0;
+    
+}
+
+.firstColumn ul li{
+    border-top: 1px solid #d9d9d9;
+    
+}
+
+.line-text:after {
+    content: " ";
+    
+}
+
+.liNew1_1{
+    text-align: center;
+}
+
+.sNew1_1 {
+    position: relative;
+    text-align: center;
+    word-spacing: -0.05em;
+    font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+    font-weight: 500;
+    font-size: 2.4rem;
+    line-height: 1.33333;
+    
+}
+
+.imgPence{
+    width: 447px;
+}
+
+.imgTank{
+    width: 307px;
+    margin-top: 10px;
+}
+
+.cd__description a {
+    color: #0c0c0c;
+    font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+    font-weight: inherit;
+    font-size: 14px;
+    font-size: .93333rem;
+    line-height: 1.28571;
+    -o-transition: all .4s ease;
+    transition: all .4s ease;
+    text-decoration: none;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(0deg,rgba(0,0,0,0) 75%,#d9d9d9 0);
+    background-size: 0.4em 0.4em;
+    background-position: 0 1.2em;
+    font-size: 14px;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.vid-left-enabled{
+    font-weight: 650;
+    font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+    font-size: 1.33333rem;
+    line-height: 1.2;
+    color: #0c0c0c;
+    
+}
+
+
+
+.gjhHbD{
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: 0.2px;
+    border-radius: 8px;
+    min-height: 27px;
+    min-width: 60px;
+    background-color: rgb(12, 12, 12);
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(254, 254, 254);
+}
